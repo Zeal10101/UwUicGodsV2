@@ -1,0 +1,16 @@
+p {
+    color: rgb(20, 220, 87);
+}
+
+h1 {
+    color: rgba(21, 255, 0, 0.795);
+}
+
+p {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h1 {font-size: 60px;}
+
+p {font-size: 20px}
+
+p {font-weight: 700;}
+
